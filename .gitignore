@@ -42,4 +42,5 @@ Thumbs.db
 # Spring Boot
 application-local.properties
 application-dev.properties
-.vscode
+
+*.vscode
